@@ -1,8 +1,14 @@
 import React from 'react'
+import Nav from './assets/Nav'
 
 const App = () => {
   return (
-    <div>App</div>
+
+
+      <>
+      <Nav/>
+      </>
+
   )
 }
 
