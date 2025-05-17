@@ -1,5 +1,5 @@
 import React from 'react'
-import Nav from './assets/Nav.jsx'
+import Nav from './Assets/Nav.jsx'
 
 const App = () => {
   return (
